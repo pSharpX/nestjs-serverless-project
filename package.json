@@ -37,7 +37,7 @@
     "passport-http-bearer": "^1.0.1",
     "reflect-metadata": "^0.1.12",
     "rxjs": "^6.0.0",
-    "typeorm": "0.2.18",
+    "typeorm": "0.2.25",
     "typescript": "3.5.3"
   },
   "devDependencies": {
